@@ -31,8 +31,8 @@ function App() {
           <Route path="/graphics-design" element={<GraphicsDesign />} />
           <Route path="/web-development" element={<WebDevelopment />} />
           <Route path="*" element={<NotFound />} />
-          {/* <Route path="/" element={< />} />
-          <Route path="/" element={< />} /> */}
+          <Route path="/graphic-design" element={<GraphicsDesign />} />
+          {/* <Route path="/" element={< />} /> */}
         </Routes>
       </>
     </Router>
