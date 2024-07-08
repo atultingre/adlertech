@@ -1,0 +1,32 @@
+[
+  {
+    "title": "SEARCH ENGINE OPTIMIZATION (SEO)",
+    "description": "SEO is the cornerstone of any successful digital marketing strategy. At Adlertech, we use advanced SEO techniques to improve your website’s visibility on search engines like Google.",
+    "buttonText": "READ MORE",
+    "imageSrc": "/seo.jpg"
+  },
+  {
+    "title": "SOCIAL MEDIA MARKETING (SMM)",
+    "description": "Social media platforms are powerful tools for engaging with your audience and building brand loyalty. Adlertech’s digital marketing services in Pune include...",
+    "buttonText": "READ MORE",
+    "imageSrc": "/socialmedia.jpg"
+  },
+  {
+    "title": "PAY-PER-CLICK (PPC) ADVERTISING",
+    "description": "PPC advertising is a cost-effective way to drive immediate traffic to your website. Adlertech specializes in...",
+    "buttonText": "READ MORE",
+    "imageSrc": "/payperclick.jpg"
+  },
+  {
+    "title": "CONTENT MARKETING",
+    "description": "Quality content is essential for attracting and retaining customers. Our digital marketing services in Pune include...",
+    "buttonText": "READ MORE",
+    "imageSrc": "/content-marketing.jpg"
+  },
+  {
+    "title": "EMAIL MARKETING",
+    "description": "Email marketing remains one of the most effective ways to nurture leads and drive sales. Adlertech offers...",
+    "buttonText": "READ MORE",
+    "imageSrc": "/email-marketing.jpg"
+  }
+]
